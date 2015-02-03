@@ -1,2 +1,2 @@
-# Shell-Sort-JS-visualization-
+# Shell-Sort-JS-visualization
 Shell Sorting Algorithm Animations 

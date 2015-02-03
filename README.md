@@ -10,8 +10,8 @@ The idea is:
 - continue until element on the left is smaller than current element;
 - repeat with the smaller gap.
 
-Open **index.html** file and enter numbers in input fields. If is not enough input fields click to **+** button and you will be have one more.<br/>
-**SORT**<br/>
+Open **index.html** file and enter numbers in input fields. If is not enough input fields click to **+** button and you will be have more.<br/>
+**--SORT--**<br/>
 You will see step by step sort of Shell Method.
 
 

@@ -1,4 +1,4 @@
-# Shell-Sort-JS-visualization
+# Shell Sort Algorithm Visualization
 Shell Sorting Algorithm Animations 
 
 [Shellsort](http://en.wikipedia.org/wiki/Shellsort), also known as the **diminishing increment sort**, is one of the oldest sorting algorithms, named after its inventor Donald. L. Shell (1959). 
